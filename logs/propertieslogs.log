@@ -1,0 +1,10 @@
+[DEBUG] 2018-01-05 21:59:53.809 [main] Log4J2PropertiesConf - This is a degub message
+[INFO ] 2018-01-05 21:59:53.839 [main] Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-01-05 21:59:53.840 [main] Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-01-05 21:59:53.840 [main] Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-01-05 21:59:53.840 [main] Log4J2PropertiesConf - This is a fatal message
+[DEBUG] 2018-01-05 23:01:43.527 [main] Log4J2PropertiesConf - This is a degub message
+[INFO ] 2018-01-05 23:01:43.560 [main] Log4J2PropertiesConf - This is an info message
+[WARN ] 2018-01-05 23:01:43.561 [main] Log4J2PropertiesConf - This is a warn message
+[ERROR] 2018-01-05 23:01:43.561 [main] Log4J2PropertiesConf - This is an error message
+[FATAL] 2018-01-05 23:01:43.561 [main] Log4J2PropertiesConf - This is a fatal message
